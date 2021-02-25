@@ -1,0 +1,1596 @@
+﻿"DeployProject"
+{
+"VSVersion" = "3:700"
+"ProjectType" = "8:{5443560c-dbb4-11d2-8724-00a0c9a8b90c}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:CryptoSafe Setup"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"UILanguageId" = "3:1033"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_1801E059CFB246B6891F7C21B909AF6D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\NEW.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_388E0069F2D44529B990A2642B80E4A3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\SAVE.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3947434DD0894C6896D2711250225A61"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:cryptosafed:\\my documents\\visual studio projects\\cryptosafe\\obj\\debug\\cryptosafe.exe"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_47EA2D9831B74E5DBB7F48223D503B26"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\RES\\TYPE.ICO"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_513289D2830D4296AEA9ED6EDA797098"
+        "OwnerKey" = "8:_3947434DD0894C6896D2711250225A61"
+        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_78512CACF582437B8AFE6A663D086A18"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\ADDDIR.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8177BB8F59C64C0B924DDA426A7E625E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\USERS GUIDE (RO).DOC"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8F4DACDBA3ED4A6FBE71DABB6DD53148"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\ABOUDIALOG.CS"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_930BA92EFF8A4B7A99E5B36EDBDB6671"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\ICONFILE.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9683F135CB74466FB3C43B2938DF7FB5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\ADD.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A404FFDC7D0F45AF87BA7F0EFB53AB22"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\VIEW.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A580683E669649FAAA7CCFBA18998600"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\APP.ICO"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AA41836B7DCC48EE8E34F37D1253D524"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\OPEN.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AE11B8D3C8274F18A7F2790D37EFAC63"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\ICONUP.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BDA86C9558864820A2055552FA5DB079"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\ICONUP2.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C5AFD3B734CC438499A32DE6E90F8C02"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\ICONFOLDER.ICO"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D4EA16867F3A4023A65CD22435D04D08"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\RES\\LICENSE.RTF"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D500F931BA1E4174BE390D00D37826CB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\RES\\LICENSE.TXT"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E92A8A9DE335467FBD06D7467948882F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\RES\\TYPE2.ICO"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F1A7A9F9F43740DDBF57A0D0F938C16A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\COMMENT.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FCC62B1D46864827A908BA3F34145828"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\SAFE.PNG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FCFF3CC1F41640FAB6935BC7731D3008"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:D:\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CRYPTOSAFE\\IMAGES\\EXTRACT.PNG"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\CryptoSafe Setup.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\CryptoSafe Setup.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+        }
+    }
+    "Deployable"
+    {
+        "CustomAction"
+        {
+        }
+        "DefaultFeature"
+        {
+        "Name" = "8:DefaultFeature"
+        "Title" = "8:"
+        "Description" = "8:"
+        }
+        "Feature"
+        {
+        }
+        "File"
+        {
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_1801E059CFB246B6891F7C21B909AF6D"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\New.png"
+            "TargetName" = "8:New.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_388E0069F2D44529B990A2642B80E4A3"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\Save.png"
+            "TargetName" = "8:Save.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_47EA2D9831B74E5DBB7F48223D503B26"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Res\\Type.ico"
+            "TargetName" = "8:Type.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_78512CACF582437B8AFE6A663D086A18"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\AddDir.png"
+            "TargetName" = "8:AddDir.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8177BB8F59C64C0B924DDA426A7E625E"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Users Guide (RO).doc"
+            "TargetName" = "8:Users Guide (RO).doc"
+            "Tag" = "8:"
+            "Folder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8F4DACDBA3ED4A6FBE71DABB6DD53148"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\AbouDialog.cs"
+            "TargetName" = "8:AbouDialog.cs"
+            "Tag" = "8:"
+            "Folder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_930BA92EFF8A4B7A99E5B36EDBDB6671"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\IconFile.png"
+            "TargetName" = "8:IconFile.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_9683F135CB74466FB3C43B2938DF7FB5"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\Add.png"
+            "TargetName" = "8:Add.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_A404FFDC7D0F45AF87BA7F0EFB53AB22"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\View.png"
+            "TargetName" = "8:View.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_A580683E669649FAAA7CCFBA18998600"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\App.ico"
+            "TargetName" = "8:App.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_AA41836B7DCC48EE8E34F37D1253D524"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\Open.png"
+            "TargetName" = "8:Open.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_AE11B8D3C8274F18A7F2790D37EFAC63"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\IconUp.jpg"
+            "TargetName" = "8:IconUp.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_BDA86C9558864820A2055552FA5DB079"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\IconUp2.png"
+            "TargetName" = "8:IconUp2.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_C5AFD3B734CC438499A32DE6E90F8C02"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\IconFolder.Ico"
+            "TargetName" = "8:IconFolder.Ico"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_D4EA16867F3A4023A65CD22435D04D08"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Res\\license.rtf"
+            "TargetName" = "8:license.rtf"
+            "Tag" = "8:"
+            "Folder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_D500F931BA1E4174BE390D00D37826CB"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Res\\license.txt"
+            "TargetName" = "8:license.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_E92A8A9DE335467FBD06D7467948882F"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Res\\Type2.ico"
+            "TargetName" = "8:Type2.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_F1A7A9F9F43740DDBF57A0D0F938C16A"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\Comment.png"
+            "TargetName" = "8:Comment.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_FCC62B1D46864827A908BA3F34145828"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\safe.png"
+            "TargetName" = "8:safe.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_FCFF3CC1F41640FAB6935BC7731D3008"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\Images\\Extract.png"
+            "TargetName" = "8:Extract.png"
+            "Tag" = "8:"
+            "Folder" = "8:_42F8492BA4DF4B4DAC1524283A85615C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "FileType"
+        {
+            "{72DA7347-184D-11D3-8D6D-00A0C9CFCEE6}:_BE571EFA08344B6292F19A7E21D585A4"
+            {
+            "Name" = "8:CryptoSafe Single File"
+            "Description" = "8:Single encrypted file"
+            "Extensions" = "8:.csm"
+            "MIME" = "8:"
+            "Icon" = "8:_E92A8A9DE335467FBD06D7467948882F"
+            "IconIndex" = "3:0"
+                "Command"
+                {
+                "Command" = "8:_3947434DD0894C6896D2711250225A61"
+                }
+                "Verbs"
+                {
+                    "{B4FB8011-185E-11D3-8D6D-00A0C9CFCEE6}:_506006C9A5EF4A84B3EE74AC3FD46E6C"
+                    {
+                    "Command" = "8:&Open"
+                    "Verb" = "8:Open"
+                    "Arguments" = "8:o \"%1\""
+                    "Order" = "3:1"
+                    }
+                    "{B4FB8011-185E-11D3-8D6D-00A0C9CFCEE6}:_AFA3E7F6F53B4BF888544C70116B30A6"
+                    {
+                    "Command" = "8:&Run"
+                    "Verb" = "8:Run"
+                    "Arguments" = "8:x \"%1\""
+                    "Order" = "3:0"
+                    }
+                }
+            }
+            "{72DA7347-184D-11D3-8D6D-00A0C9CFCEE6}:_D2C0B7C4B9784E8CBD20A5FB41AE0DB0"
+            {
+            "Name" = "8:CryptoSafe File"
+            "Description" = "8:Collection of encrypted files"
+            "Extensions" = "8:.csf"
+            "MIME" = "8:"
+            "Icon" = "8:_47EA2D9831B74E5DBB7F48223D503B26"
+            "IconIndex" = "3:0"
+                "Command"
+                {
+                "Command" = "8:_3947434DD0894C6896D2711250225A61"
+                }
+                "Verbs"
+                {
+                    "{B4FB8011-185E-11D3-8D6D-00A0C9CFCEE6}:_07FB5DE35EE24000A7F9A5C30F713DFD"
+                    {
+                    "Command" = "8:&Decrypt To..."
+                    "Verb" = "8:Decrypt To"
+                    "Arguments" = "8:e \"%1\""
+                    "Order" = "3:1"
+                    }
+                    "{B4FB8011-185E-11D3-8D6D-00A0C9CFCEE6}:_231E46E7B790480EA544607C924CBE65"
+                    {
+                    "Command" = "8:D&ecrypt in place"
+                    "Verb" = "8:Decrypt in place"
+                    "Arguments" = "8:e \"%1\" !"
+                    "Order" = "3:2"
+                    }
+                    "{B4FB8011-185E-11D3-8D6D-00A0C9CFCEE6}:_5F58243AF17744AF8FAFC289D8EFC18D"
+                    {
+                    "Command" = "8:&Open"
+                    "Verb" = "8:open"
+                    "Arguments" = "8:o \"%1\""
+                    "Order" = "3:0"
+                    }
+                }
+            }
+        }
+        "Folder"
+        {
+            "{EE62640D-12F2-11D3-8D6C-00A0C9CFCEE6}:_A31B60B8C08046FCABC91527F9ED7444"
+            {
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\CryptoSafe"
+            "Name" = "8:#1925"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:TARGETDIR"
+                "Folders"
+                {
+                    "{461E96AF-1495-11D3-8D6C-00A0C9CFCEE6}:_42F8492BA4DF4B4DAC1524283A85615C"
+                    {
+                    "Name" = "8:Images"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_8501FB1C9FBD49DAAF875F8A7B8CDCCB"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{461E96AF-1495-11D3-8D6C-00A0C9CFCEE6}:_54F1CE5101BB440188B377E4C92FF322"
+                    {
+                    "Name" = "8:.NET Framework"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_D99A48029A544858B4A9785D6BEA234D"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
+            "{777C097F-0ED8-11D3-8D6C-00A0C9CFCEE6}:_A4C77355D5F8463DA64C904197158FC5"
+            {
+            "Name" = "8:#1916"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:DesktopFolder"
+                "Folders"
+                {
+                }
+            }
+            "{777C097F-0ED8-11D3-8D6C-00A0C9CFCEE6}:_A819A1EC7BE64B1D9FBCFD6BA97B300C"
+            {
+            "Name" = "8:#1919"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:ProgramMenuFolder"
+                "Folders"
+                {
+                    "{461E96AF-1495-11D3-8D6C-00A0C9CFCEE6}:_16093BC4148C4F51B1570135E1FA43E2"
+                    {
+                    "Name" = "8:CryptoSafe 2.1"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_85E68E4A9D094D7D978F72F8DFDE3703"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
+        }
+        "LaunchCondition"
+        {
+            "{B26CFB94-18E3-45BF-8D42-933BDAF5E76C}:_4C199E1B3E1F4CE4B19989C265A21881"
+            {
+            "Name" = "8:MsiNetAssemblySupport"
+            "Condition" = "8:MsiNetAssemblySupport"
+            "Message" = "8:[VSDNETMSG]"
+            }
+        }
+        "Locator"
+        {
+        }
+        "Shortcut"
+        {
+            "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_14BA885EE1AE4A36BC3FCC147F21F994"
+            {
+            "Name" = "8:Users Guide (RO).doc"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_8177BB8F59C64C0B924DDA426A7E625E"
+            "Folder" = "8:_16093BC4148C4F51B1570135E1FA43E2"
+            "WorkingFolder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_3551604BA1EE4F2C967251F7412B8FEF"
+            {
+            "Name" = "8:CryptoSafe 2.1"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_3947434DD0894C6896D2711250225A61"
+            "Folder" = "8:_16093BC4148C4F51B1570135E1FA43E2"
+            "WorkingFolder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Icon" = "8:_A580683E669649FAAA7CCFBA18998600"
+            "Feature" = "8:"
+            }
+            "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_48FE1108D28E4202A408B474120DBD3E"
+            {
+            "Name" = "8:CryptoSafe 2.1"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_3947434DD0894C6896D2711250225A61"
+            "Folder" = "8:_A4C77355D5F8463DA64C904197158FC5"
+            "WorkingFolder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Icon" = "8:_A580683E669649FAAA7CCFBA18998600"
+            "Feature" = "8:"
+            }
+            "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_CCC0D795AE8247529778F0A5B6552248"
+            {
+            "Name" = "8:License"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_D500F931BA1E4174BE390D00D37826CB"
+            "Folder" = "8:_16093BC4148C4F51B1570135E1FA43E2"
+            "WorkingFolder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+        }
+        "Sequences"
+        {
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                    "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_6C6D724019214AC8AAB44EE7DC6CC6E2"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_DD0EAB4095AC42C39F63235E2498007E"
+                            {
+                            "Name" = "8:MAT"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                    "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_D1651EDC87244776B29CB7ED25D806D0"
+                                    {
+                                    "Name" = "8:CryptoSafe"
+                                    "Condition" = "8:"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "DeleteAtUninstall" = "11:TRUE"
+                                    "Transitive" = "11:FALSE"
+                                        "Keys"
+                                        {
+                                        }
+                                        "Values"
+                                        {
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_B1A82CCC3BEC4C8B98042878179A429F"
+                                            {
+                                            "Name" = "8:Application Path"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:%TARGETDIR%"
+                                            }
+                                        }
+                                    }
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                    "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_9C9CCAF3997F4ECBBCCD83703E18E081"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_6D201373AB5A4F67B71AA243A1DA129E"
+                            {
+                            "Name" = "8:MAT"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                    "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_2C59359F21BC4D95856F9417C2AB8C20"
+                                    {
+                                    "Name" = "8:CryptoSafe"
+                                    "Condition" = "8:"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "DeleteAtUninstall" = "11:TRUE"
+                                    "Transitive" = "11:FALSE"
+                                        "Keys"
+                                        {
+                                        }
+                                        "Values"
+                                        {
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_067D9A585A90464E8015BC5F478518CF"
+                                            {
+                                            "Name" = "8:SaveDir"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:."
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_3BED4408190F482797C7DDE130A43430"
+                                            {
+                                            "Name" = "8:NotifyUpdate"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:True"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_52AE8CC46CA2460D8C90B16B6AE4D062"
+                                            {
+                                            "Name" = "8:OpenDir"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:."
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_5EAA9B6A913D4E6CB7B44BA57A5771E5"
+                                            {
+                                            "Name" = "8:Application Path"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:%TARGETDIR%"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_83365D73A1EA4EC7AD928BFC21F6A7AB"
+                                            {
+                                            "Name" = "8:ReverseUpdate"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_88D47805BAB54A819CDBA0BB22750AA9"
+                                            {
+                                            "Name" = "8:DeleteTempFiles"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:True"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_8A177B45D76F4FEC8B4B558806AC37C0"
+                                            {
+                                            "Name" = "8:UseLastKeyByDefault"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_8FCDA24F400D42D0B29167EB9C6D313F"
+                                            {
+                                            "Name" = "8:ExtractHaltOnFail"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:True"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_953F30CC9DEA4B979B013570569D8869"
+                                            {
+                                            "Name" = "8:SaveSettingsOnOK"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_9879E2C55A3C42688B9E2935C3823E1E"
+                                            {
+                                            "Name" = "8:AddDir"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:."
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_B009C53900754D068E03F725A5CDF43A"
+                                            {
+                                            "Name" = "8:SetDKeyOnOpen"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_B2BA4F87D66A4AB2BA44482027CA7901"
+                                            {
+                                            "Name" = "8:DelAfterAdding"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_BF50FAD09FE140C995AF7B32F0029D00"
+                                            {
+                                            "Name" = "8:DestroyFiles"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_D8682CC63D7E49268038CDD174915797"
+                                            {
+                                            "Name" = "8:ShowGridLines"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:False"
+                                            }
+                                            "{B73D4F5A-FF29-11D2-8D6B-00A0C9CFCEE6}:_FC669DB0B1624A74BF110252FA311385"
+                                            {
+                                            "Name" = "8:DrawIcons"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:True"
+                                            }
+                                        }
+                                    }
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "ProjectOutput"
+        {
+            "{B1E2BB22-187D-11D3-8E02-00C04F6837D0}:_3947434DD0894C6896D2711250225A61"
+            {
+            "SourcePath" = "8:..\\CryptoSafe\\obj\\Release\\CryptoSafe.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectCanonicalName" = "8:CryptoSafe.csproj"
+            "OutputProjectGuid" = "8:{1B19B9EC-779C-4656-B629-8F9CCB69270D}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{B1E2BB22-187D-11D3-8E02-00C04F6837D0}:_4CF733FF3DCB4139BED282335CBC9D99"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_A31B60B8C08046FCABC91527F9ED7444"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Documentation"
+            "OutputProjectCanonicalName" = "8:CryptoSafe.csproj"
+            "OutputProjectGuid" = "8:{1B19B9EC-779C-4656-B629-8F9CCB69270D}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:CryptoSafe"
+        "ProductCode" = "8:{18B0B3C4-272A-46AA-A2FC-9BFE39F87BBB}"
+        "PackageCode" = "8:{312089D3-7D2F-40BE-823E-5BC4E75F7098}"
+        "UpgradeCode" = "8:{6A4D59DA-F5BB-4343-84BD-D19D722ED75F}"
+        "RestartWWWService" = "11:FALSE"
+        "RemovePreviousVersions" = "11:FALSE"
+        "DetectNewerInstalledVersion" = "11:TRUE"
+        "ProductVersion" = "8:2.1.0"
+        "Manufacturer" = "8:MAT"
+        "ARPHELPTELEPHONE" = "8:"
+        "ARPHELPLINK" = "8:www.matsoft.ro/produse/cryptosafe.html"
+        "Title" = "8:CryptoSafe Setup"
+        "Subject" = "8:CryptoSafe is a file ecryption package that allows fast and easy operation with your files"
+        "ARPCONTACT" = "8:Mircea Digulescu"
+        "Keywords" = "8:"
+        "ARPCOMMENTS" = "8:CryptoSafe 2.1 Installer"
+        "ARPURLINFOABOUT" = "8:"
+        "ARPPRODUCTICON" = "8:_A580683E669649FAAA7CCFBA18998600"
+        "ARPIconIndex" = "3:0"
+        "SearchPath" = "8:"
+        "UseSystemSearchPath" = "11:TRUE"
+        }
+        "MsiBootstrapper"
+        {
+        "LangId" = "3:1033"
+        }
+        "MergeModule"
+        {
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_513289D2830D4296AEA9ED6EDA797098"
+            {
+            "UseDynamicProperties" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "SourcePath" = "8:dotnetfxredist_x86_enu.msm"
+            "ModuleSignature" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+                "Properties"
+                {
+                }
+            "LanguageId" = "3:1033"
+            "Exclude" = "11:TRUE"
+            "Folder" = "8:"
+            "Feature" = "8:"
+            "IsolateTo" = "8:"
+            }
+        }
+        "UserInterface"
+        {
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_413C3F375F5A45A08D47D2A3F4D1B9B2"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:2"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_92FF565308E8427F914758AD0AD56080"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.EE9A1AFA_41DD_4514_B727_DF0ACA1D7389"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_65A7B17937E04E268A3332C4B9CEABA4"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:1"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_F57FCFC397334663AEA19676DF7BB150"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.1DB77F5A_BA5C_4470_89B6_0B0EC07E3A10"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_6DE02ADAE5A64F4889ABD824EF0C2244"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:1"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_2E7E7518FA7140A181E04DD4D1837354"
+                    {
+                    "Sequence" = "3:110"
+                    "DisplayName" = "8:License Agreement"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdLicenseDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.8FA7D956_B864_4FF4_92F0_FB2799B33176"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "EulaText"
+                            {
+                            "Name" = "8:EulaText"
+                            "DisplayName" = "8:#1008"
+                            "Description" = "8:#1108"
+                            "Type" = "3:6"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:_D4EA16867F3A4023A65CD22435D04D08"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Sunken"
+                            {
+                            "Name" = "8:Sunken"
+                            "DisplayName" = "8:#1007"
+                            "Description" = "8:#1107"
+                            "Type" = "3:5"
+                            "ContextData" = "8:4;True=4;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:4"
+                            "DefaultValue" = "3:4"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_40ACA089DC104163AD9699F41C3AC4FE"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.68F69290_BB7C_474E_A153_6679845F3DDF"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:The installer will guide you through the steps required to install CryptoSafe 2.1 on your computer.\\n WARNING: THE .NET FRAMEWORK MUST BE INSTALLED BEFORE RUNNING THIS SETUP. RUN THE FILE \"dotnetfx.exe\" TO INSTALL .NET FRAMEWORK!"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_47A8744BB064443CBA3A699E44C1A16F"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.C113BC36_2532_4D45_8099_4818B1133B2F"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_C10246381647467A83B85D37FED31C9A"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.6DBC9783_3677_4D68_8BF5_D749558A0AC1"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{E4ECAB26-4AB7-11D3-8D78-00A0C9CFCEE6}:_7790926E365B4D62827EC524BD393C3B"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
+            "ModuleSignature" = "8:VsdDialogs.CE4B864F_F1C1_4B85_98D4_2A2BF5FFB12B"
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_B25D802943614F259FC0DC88B8C5B985"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:1"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_82D979F30FDD49BC9C13D0E6306BBAD0"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.4FB12620_0D15_42D0_8677_2766FFA6923F"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_B2E8415A7EC4494F8BCDC96AA17400CA"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:2"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_A8F8D2A20E5048ADA2237943D54F978C"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.83D22742_1B79_46f6_9A99_DF0F2BD4C077"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{E4ECAB26-4AB7-11D3-8D78-00A0C9CFCEE6}:_C25F94BD732649A199538AB471355D19"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            "ModuleSignature" = "8:VsdUserInterface.524F4245_5254_5341_4C45_534153783400"
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_E552ECEF212348799087D84F046A7CB0"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:2"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_09A97F8B01034493B96CC8A3D7AFBAFB"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.FA58E60A_A1E8_4876_95FC_2AC3B5AAA5F8"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_0EE3D4CE2E264542A8783E45CF5B1787"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.E35A0E2C_F131_4B57_B946_59A1A2A8F45F"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_EC5C0A5A0B9748F7BE4DECCC0736D42E"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.2DED2424_5429_4616_A1AD_4D62837C2ADA"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
