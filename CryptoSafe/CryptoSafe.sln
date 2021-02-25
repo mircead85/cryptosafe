@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSafe", "CryptoSafe.csproj", "{1B19B9EC-779C-4656-B629-8F9CCB69270D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CryptoSafe Setup", "..\CryptoSafe Setup\CryptoSafe Setup.vdproj", "{AF1E35FC-9EEA-4443-B9EE-BD5773EF092B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1B19B9EC-779C-4656-B629-8F9CCB69270D}.Debug.ActiveCfg = Debug|.NET
+		{1B19B9EC-779C-4656-B629-8F9CCB69270D}.Debug.Build.0 = Debug|.NET
+		{1B19B9EC-779C-4656-B629-8F9CCB69270D}.Release.ActiveCfg = Release|.NET
+		{1B19B9EC-779C-4656-B629-8F9CCB69270D}.Release.Build.0 = Release|.NET
+		{AF1E35FC-9EEA-4443-B9EE-BD5773EF092B}.Debug.ActiveCfg = Debug
+		{AF1E35FC-9EEA-4443-B9EE-BD5773EF092B}.Release.ActiveCfg = Release
+		{AF1E35FC-9EEA-4443-B9EE-BD5773EF092B}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
